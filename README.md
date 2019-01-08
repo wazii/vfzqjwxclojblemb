@@ -1,6 +1,5 @@
 # AW DEVELOPMENT
 
-----------------------
 
 *	Webhook Test	- None
 *	Discord Sync	- None
