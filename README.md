@@ -17,4 +17,4 @@ Contributions and what format to follow when Pushing Commits
 * [Trinity Installations Guide](https://trinitycore.atlassian.net/wiki/spaces/tc/pages/2130077/Installation+Guide)
 
 
--- Copyright 2019 - Anarchy-WoW --
+© AW
